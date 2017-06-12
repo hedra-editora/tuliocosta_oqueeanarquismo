@@ -1,7 +1,4 @@
-Introdução
-==========
-
-### 
+#Introdução
 
 Este livro está dividido em quatro partes que procuram dar conta de uma
 maneira bem geral do que seja o anarquismo, ou melhor, os anarquismos;
@@ -46,10 +43,7 @@ estudiosos do anarquismo como, entre outros, James Joll, Daniel Guérin,
 Paul Avrich e George Woodcock de cuja obra, *Anarchism*, reproduzo a
 cronologia e subscrevo a maioria das opiniões.
 
-A ingênua lucidez
-=================
-
-### 
+# A ingênua lucidez
 
 Richard Wagner, além de combater nas barricadas de Dresden ao lado de
 Bakunin, compôs uma peça grandiosa, “O Holandês Voador”, música do
@@ -66,7 +60,7 @@ destruição, onde as imagens se confundem e reviram céus e terra
 engolindo a vida, a natureza e os homens, estendeu-se por toda a sua
 existência. Não foi gratuitamente que ele mesmo sentenciou a
 criatividade do caos, pois a paixão pela destruição – em seu próprio
-dizer –também é uma paixão criadora.
+dizer – também é uma paixão criadora.
 
 No sentido comum, a anarquia sempre foi o caos, a desordem. A palavra
 transformou-se em sinônimo de bagunça e os cronistas e historiadores de
@@ -138,9 +132,7 @@ França em 1848 ou mesmo o da Comuna de Paris, entre milhares de
 exemplos; de produção filosófica constante e crítica, de denúncias da
 miserável exploração do homem pelo homem, de questionamentos.
 
-![](media/image1.jpeg){width="3.8020833333333335in" height="3.75in"}
-
-*Michail Bakunin (1814–1876).*
+(imagem 14)
 
 O que atualmente se sabe dos anarquistas foi plantado seguramente com a
 aparição, no cenário político, de Bakunin, um russo curioso e
@@ -194,7 +186,7 @@ Estado com o de Deus e os proclama principais adversários da liberdade
 humana. Proudhon não cansa de repetir que o governo do homem pelo homem
 é a servidão e define dramaticamente o que é ser governado:
 
-“é ser guardado à vista, inspecionado, espionado, dirigido, legislado,
+>“é ser guardado à vista, inspecionado, espionado, dirigido, legislado,
 regulamentado, parqueado, endoutrinado, predicado, controlado,
 calculado, apreciado, censurado, comandado, por seres que não têm nem o
 título, nem a ciência, nem a virtude \[…\]. Ser governado é ser, a cada
@@ -298,7 +290,7 @@ muito propícia para Bakunin definir-se politicamente frente a Karl Marx
 – uma das figuras mais notórias da Internacional. Seu discurso foi
 particularmente interessante:
 
-“Detesto a comunhão, porque é a negação da liberdade e porque não
+>“Detesto a comunhão, porque é a negação da liberdade e porque não
 concebo a humanidade sem liberdade. Não sou comunista, porque o
 comunismo concentra e engole, em benefício do Estado, todas as forças da
 sociedade; porque conduz inevitavelmente à concentração da propriedade
@@ -488,10 +480,7 @@ conseguiu jamais formar um organismo aglutinador e impulsionador de seus
 objetivos; apesar de seus esforços não logrou sequer abalar as
 estruturas do sólido Estado moderno. Eis seu fracasso e seu fascínio.
 
-Os ingovernáveis
-================
-
-### 
+# Os ingovernáveis
 
 Em 20 de novembro de 1977 matou-se aos 63 anos Luis Mercier Vega, ou
 Santiago Parene, ou Charles Ridel. Dedicou toda sua existência à
@@ -567,7 +556,7 @@ A liberdade para Stirner esteve em segundo plano em respeito à
 singularidade e originalidade do indivíduo. Escreveu em *O único e a sua
 propriedade*:
 
-“Ser livre é uma coisa que não posso verdadeiramente querer, porque a
+>“Ser livre é uma coisa que não posso verdadeiramente querer, porque a
 liberdade não posso fazê-la, não posso criá-la; posso somente desejá-la,
 aspirar a esta que permanece um ideal, um fantasma. A cada momento a
 realidade escava sulcos profundos na minha carne. Mas eu permaneço”.
@@ -771,7 +760,7 @@ estéril: “o problema social – escreveu – há de resolver-se mediante o
 aniquilamento da sociedade atual”. Numa carta a um amigo atacou toda a
 instituição republicana:
 
-“os dias dos parlamentares e das assembleias nacionais se extinguiram.
+>“os dias dos parlamentares e das assembleias nacionais se extinguiram.
 Quem quer que coloque cruamente a questão deverá confessar que não
 encontrou utilidade nenhuma nestas fórmulas anacrônicas \[…\]. Não creio
 na constituição nem nas leis, a mais perfeita constituição não
@@ -1031,9 +1020,7 @@ Expulso da Suíça pelas suas atividades políticas, passou pela França e
 pela Inglaterra em 1882, voltando à França acompanhado por uma escalada
 de explosões e violência política.
 
-![](media/image2.jpeg){width="5.083333333333333in" height="3.125in"}
-
-*Piotr Kropotkin (1842–1921).*
+(imagem 55)
 
 A polícia o deteve, acusando-o pelos atentados. No início de janeiro de
 1883 Kropotkin e mais 53 camaradas compareceram ante a corte de Lyon
@@ -1303,10 +1290,7 @@ libertárias que também colocaram em cheque não só a sociedade
 capitalista, mas também a fé, a família e o desamor entre as pessoas
 escravizadas pelo jugo onipresente da autoridade.
 
-O internacionalismo
-===================
-
-### 
+#O internacionalismo
 
 A bandeira negra do anarquismo internacionalista esteve novamente
 hasteada em 1976 na França e mais recentemente, em setembro de 1979, em
@@ -1732,21 +1716,11 @@ Susan Sontag, Simone de Beauvoir, Savater, Schumacher, Theodor Adorno,
 Tristan Tzara, Valerie Solanas, Victor Serge, Victor Garcia, Walter
 Benjamin, W. Bourroughs e Yona Friedman.
 
-![](media/image3.jpeg){width="3.125in" height="3.5104166666666665in"}
+(imagem 87)
 
-*Leon Tolstoi (1828–1910)*
+# A parte maldita
 
-![](media/image4.jpeg){width="3.125in" height="3.2395833333333335in"}
-
-*Albert Camus (1913–1960)*
-
-A parte maldita
-===============
-
-### 
-
-Na Rússia
----------
+## Na Rússia
 
 Era uma festa animada na casa daquele latifundiário russo. As garrafas
 de bebida iam-se-esvaziando e as canções enchendo a noite. De repente,
@@ -1820,8 +1794,7 @@ entre os radicais de Moscou.
 No começo dos anos oitenta do século XIX delineouse a tendência ao
 terrorismo, herança de Nechaev. Alguns grupos anarquistas não foram
 contra, mas também não participaram dos atentados que perpetrou o famoso
-grupo *Narodnaja Volja*, responsável pelo assassinato de Alexandre II em
-1881. Este golpe selou também uma onda de prisões e exílio e somente nos
+grupo *Narodnaja Volja*, responsável pelo assassinato de Alexandre II em 1881. Este golpe selou também uma onda de prisões e exílio e somente nos
 últimos anos do século XIX formaramse na Rússia os primeiros grupos
 declaradamente anarquistas.
 
@@ -1831,8 +1804,7 @@ estudantis e descontentamento no exército – deu a estas manifestações um
 sentido libertário.
 
 Em todo caso, até mesmo para os anarquistas foi difícil dizer em que
-medida estes jornais e grupos colaboraram para o estouro da revolução de
-1905. Kropotkin creditoua apenas à espontaneidade e explosão do
+medida estes jornais e grupos colaboraram para o estouro da revolução de 1905. Kropotkin creditoua apenas à espontaneidade e explosão do
 descontentamento popular e considerou-se pego de surpresa pelos
 acontecimentos anteriores ao “Domingo Sangrento” (quando o exército
 czarista reprimiu e assassinou centenas de manifestantes), marcados pelo
@@ -2068,8 +2040,7 @@ No fim do ano seguinte os anarquistas que restavam na Rússia estavam na
 cadeia ou mortos. A maioria tinhase exilado e os que permaneceram e não
 foram detidos reduziram-se a um completo mutismo.
 
-Na França
----------
+## Na França
 
 “Vive l’anarchie”. Assim Ravachol, ou melhor, Koenigsten, acolheu sua
 sentença de morte. O ex-ladrão, excontrabandista e ex-falsário sem
@@ -2193,13 +2164,7 @@ tendências dispersas. O jornal *O Libertário*, órgão desta associação,
 sairia diariamente de 1923 a 1925. Novas amarguras e dispersões
 aguardavam os libertários com a ascensão do fascismo europeu.
 
-![](media/image5.jpeg){width="3.125in" height="4.229166666666667in"}
-
-*Emma Goldman (1869–1940)*
-
-![](media/image6.jpeg){width="3.125in" height="3.9479166666666665in"}
-
-*Louise Michel (1830–1905)*
+(imagem 109)
 
 Os exilados russos em Paris (Piotr Archinof, Nestor Machnó e Ida Mett
 entre outros) tentaram em conjunto com Sébastien Faure criar uma nova
@@ -2220,8 +2185,7 @@ tirar do estancamento a Federação Anarquista Francesa – FAF,
 reconstituída em dezembro de 1953 sob o princípio da pluralidade de
 tendências.
 
-Na Itália
----------
+## Na Itália
 
 Os herdeiros de Malatesta assistiram atônitos o enfraquecer do
 anarquismo na Itália depois da II Guerra Mundial. Fracassada a
@@ -2343,8 +2307,7 @@ A Primeira Guerra Mundial e depois o fascismo criaram um longo hiato do
 qual o anarquismo italiano não sairia com a mesma participação massiva e
 influente de antes.
 
-Na Espanha
-----------
+## Na Espanha
 
 A Espanha foi o único país do mundo no qual as teorias revolucionárias
 de Bakunin se converteram em um poder real. A afirmação é de H. M.
@@ -2501,8 +2464,7 @@ por alguns anarquistas, como foi visto neste livro, correu bem profunda
 a história do anarquismo em toda a Europa, na China, no Japão, nas
 Américas…
 
-Nas Américas
-------------
+## Nas Américas
 
 A América Latina conheceria os ideais anárquicos no fim do século
 passado, por ideia e obra dos imigrantes italianos e espanhóis,
@@ -2560,7 +2522,7 @@ envolve.
 Ninguém, mais do que os libertários, olharam para a história como o
 *Angelus Novus* de Paul Klee, como disse Walter Benjamim; um quadro que
 
-“representa um anjo como se estivesse a ponto de distanciar-se de algo
+>“representa um anjo como se estivesse a ponto de distanciar-se de algo
 que o deixa pasmado. Seus olhos e boca estão desmesuradamente abertos,
 as asas estendidas. E este deverá ser o aspecto do anjo da história. Tem
 o rosto voltado para o passado. Onde nós vemos simplesmente uma
@@ -2570,15 +2532,9 @@ incansavelmente ruína sobre ruína, arrojando-as a seus pés”.
 Assim também os anarquistas, envolvidos pela catástrofe e pasmados ante
 a barbárie que o próprio homem produziu.
 
-![](media/image7.jpeg){width="4.260416666666667in" height="5.5in"}
+(imagem 125)
 
-*Lima Barreto (1881–1922)*\
-*Um libertário brasileiro caricaturado por Hugo Pires em 1919.*
-
-Bibliografia
-============
-
-### 
+# Bibliografia
 
 A – Rivista Anarchica, vários exemplares. Milano, 1978/79.
 
@@ -2631,10 +2587,7 @@ Vega, Luis Mercier. *Anarquismo ayer y hoy*, Monte Avila, Caracas 1970.
 Woodcock, George. *Anarchism – A history of libertarian ideas and
 movements*. World Publishing, Londres, 1962.
 
-Biografia
-=========
-
-### 
+# Biografia
 
 Nasci em Alfenas – MG. Formado em jornalismo pela Escola de Comunicações
 e Artes da Universidade de São Paulo, cursei filosofia na Faculdade de
